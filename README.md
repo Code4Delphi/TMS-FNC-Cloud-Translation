@@ -23,7 +23,7 @@ Para trocar de provedor, basta alterar o serviço configurado no componente e in
 2. Se ainda não tiver uma assinatura, vá em **Assinaturas → + Adicionar** e crie uma (conta gratuita ou pagamento conforme o uso).
 3. Na barra de busca do topo, digite **Tradutor** (ou *Translator*, com o portal em inglês) e abra o item **Tradutor** em *Marketplace*.
 4. Clique em **Criar** e preencha:
-   - **Grupo de recursos:** crie um novo (ex.: `demo-tms`)
+   - **Grupo de recursos:** crie um novo (ex.: `demo-test`)
    - **Região:** **Global**
    - **Nome:** um nome único (ex.: `tradutor-demo`)
    - **Tipo de preço:** **F0 (Free)**
