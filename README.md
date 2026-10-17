@@ -15,13 +15,6 @@ Os recursos de tradução deste exemplo podem ser utilizados com os seguintes pr
 
 Para trocar de provedor, basta alterar o serviço configurado no componente e informar a chave correspondente. O restante do código continua igual.
 
-## Requisitos
-
-- Delphi / RAD Studio (10.1 Berlin ou superior)
-- TMS FNC Core
-- TMS FNC Cloud Pack
-- Uma API key de pelo menos um dos provedores acima
-
 ## Como obter as API keys
 
 ### Microsoft (Azure AI Translator)
