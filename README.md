@@ -64,7 +64,7 @@ Para trocar de provedor, basta alterar o serviço configurado no componente e in
 
 
 ## Vídeos de demonstração
-- Em breve
+- [Tradução de textos no Delphi (Google, Microsoft, DeepL) + gerando a API Key da Microsoft Azure](https://www.youtube.com/watch?v=Z5okSsfsSkc)
 
 <br>
 
